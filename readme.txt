@@ -1,3 +1,12 @@
-Experiment with the different properties that affect text display, and various text formats to create effective and interesting page design. You can use for reference the constitution.html and style.css posted, which is just a plain black and white text version using some very basic CSS.
+# Mental Health Awareness Website
 
-Be creative and come up with the formatting (text, background, spacing) to make this jump out and catch a viewer's attention.
+This project is a HTML website which aims at raising awareness about mental health. It provides 
+
+- Valuable resources 
+- Information with a user-friendly layout.
+- Website adapts to different screen sizes.
+- Has three main sections with images and descriptions related to mental health awareness.
+- A easy-to-navigate header with links to other pages.
+
+
+
