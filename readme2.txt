@@ -4,7 +4,7 @@ I added
 
 -A new link called "Resources"
 -A user-friendly website within this link
--A position called "sticky"in styles.css to the header in order to make it move when the user scrolls
--A new css for the website called style_resources.css
--This css adds a side navigation bar and moves all the information to the right
+-A position called "sticky" in styles.cs to the header section, this makes it move when the user scrolls
+-A new CSS for the website called style_resources.css
+-This CSS adds a side navigation bar and moves all the information to the right
 
