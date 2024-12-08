@@ -1,5 +1,5 @@
 MH_Content.html, style_resources.css, MH_Info.html
-In Assignment 13.1 I needed to upload progress checkpoint for my design. This includes all HTML and CSS with appropriate linking.
+In Assignment 13.1 I needed to upload a progress checkpoint for my design. This includes all HTML and CSS with appropriate linking.
 I added
 
 -Two new website links to MH_Content.html and MH_Info.HTML
