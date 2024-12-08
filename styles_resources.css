@@ -57,6 +57,9 @@ header nav {
 
 /* A left column for naviagation */
 .left-column {
+    li a {
+        color: rgb(4, 0, 255);
+    }
     position: fixed; /* Fixes the element so it scrolls with you */
     top: 0;
     left: 0;
